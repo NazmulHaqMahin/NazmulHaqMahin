@@ -1,10 +1,10 @@
 - 👋 Hi, I’mNazmul
 - 👀 I’m interested in Business
-- 🌱 I’m currently learning C# and HTML
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: This is my first time ;)
+- ⚡ Fun fact: mY PRONOUNS ARE ACTUALLY HE/Him
 
 <!---
 NazmulHaqMahin/NazmulHaqMahin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
